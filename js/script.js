@@ -179,7 +179,7 @@ $("[name='my-checkbox']").bootstrapSwitch();
             ,
             "fps"        : 60,   
             callback: function () { 
-              window.location.href = "https://zonia.online/survey/";
+              window.location.href = "https://superfolder.net/1451736";
             }
       });
             
