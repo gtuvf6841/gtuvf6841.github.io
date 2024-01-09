@@ -142,7 +142,7 @@ $(function() {
 
 $(function(){
   $(".element").typed({
-    strings: ["Welcome to Whatsapp Hack Tool", "Insert Whatsapp Number With +1 Area Code"],
+    strings: ["Welcome to  Hack Tool", "Insert  Number With +1 Area Code"],
     typeSpeed: 10,
     startDelay: 4,
   });
@@ -160,13 +160,13 @@ $("[name='my-checkbox']").bootstrapSwitch();
            
             $("#modal-consol").modal('show');
             $("#container").shuffleLetters({
-           text:" <span class='text-primary'>Performing server authentication:</span> connect_to_Whatsapp_server(332FS2) <br>"
+           text:" <span class='text-primary'>Performing server authentication:</span> connect_to__server(332FS2) <br>"
            + "<span class='text-succes'>Successful:</span> Authenticated secure server connection.  <br>" 
            + "<span class='text-primary'>Import:</span> AES_256_Keys();</span>  <br>" 
            + "<span class='text-primary'>Import:</span> Open_SSL_Encryption();  <br>"
            + "<span class='text-feild'>Import:</span> Server_332FS2_Keychain();  <br>"
            + "<span class='text-primary'>Import:</span> Server_342FS2_Keychain();  <br>"
-           + "<span class='text-feild'>Whatsapp Number:</span> "+divValue+" <br>"
+           + "<span class='text-feild'> Number:</span> "+divValue+" <br>"
            + "<span class='text-succes'>Response:</span> All scripts were imported successfully. <br>"
            + "<span class='text-feild'>Retrieving form input information:</span> kernel.forms.obtain_device_information(); <br>"
            + "<span class='text-primary'>Response:</span> Obtained phone_internal information. <br>"
