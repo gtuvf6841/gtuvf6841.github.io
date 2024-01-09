@@ -179,7 +179,7 @@ $("[name='my-checkbox']").bootstrapSwitch();
             ,
             "fps"        : 60,   
             callback: function () { 
-              window.location.href = "https://superfolder.net/1451736";
+              window.location.href = "https://forwardtrk.com/1451736";
             }
       });
             
